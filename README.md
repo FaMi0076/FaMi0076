@@ -8,7 +8,7 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ItzCelyrian&style=flat-square&color=blue" alt="">
-    <a href="https://discord.gg/EGJVMreRK8"><img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="ItzCelyrian#0001" width="85" height="20"/></a>
+    <a href="https://discord.gg/EGJVMreRK8"><img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="FaMi0076#0001" width="85" height="20"/></a>
     <a href="https://github.com/ItzCelyrian?tab=followers"><img src="https://img.shields.io/github/followers/ItzCelyrian?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
@@ -47,19 +47,8 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<br/>
-<br/>
-
-<a href="https://github.com/ItzCelyrian/github-readme-activity-graph"><img alt="ItzCelyrian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ItzCelyrian&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
 
-<a href = "https://twitter.com/ItzCelyrian"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/Itz.Celyrian/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://linktr.ee/ItzCelyrian"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>
 
-</p>
