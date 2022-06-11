@@ -18,13 +18,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[CrownX.de](https://CrownX.de)**
 
 - 🌱 I’m currently learning **Lua / C# / MySQL.**
 
 - 👯 I’m looking to collaborate on **OpenSource FiveM Projects**
-
-- 📫 How to reach me **itzcelyrian@gmail.com**
 
 ## 🚀 Languages and Tools:
 
