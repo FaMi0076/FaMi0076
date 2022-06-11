@@ -16,10 +16,6 @@
 
 <br>
 
-## 🙋‍♂️ About Me
-
-
-- 👯 I’m looking to collaborate on **OpenSource FiveM Projects**
 
 ## 🚀 Languages and Tools:
 
