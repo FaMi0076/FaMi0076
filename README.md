@@ -19,8 +19,6 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Lua / C# / MySQL.**
-
 - 👯 I’m looking to collaborate on **OpenSource FiveM Projects**
 
 ## 🚀 Languages and Tools:
